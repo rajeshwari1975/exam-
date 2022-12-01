@@ -1,0 +1,1 @@
+avaScript variables can hold different data types: numbers, strings, objects and more:
